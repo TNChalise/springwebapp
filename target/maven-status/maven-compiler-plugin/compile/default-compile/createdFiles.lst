@@ -1,6 +1,12 @@
-com/tnchalise/config/AppConfig.class
-com/tnchalise/config/ServletInitializer.class
-com/tnchalise/controller/CarController.class
+com/tnchalise/service/contact/ContactService.class
 com/tnchalise/domain/Car.class
-com/tnchalise/service/CarService.class
+com/tnchalise/service/contact/ContactServiceImpl.class
+com/tnchalise/domain/contact/ContactDAOImpl.class
+com/tnchalise/controller/CarController.class
+com/tnchalise/jpa/entity/Contact.class
+com/tnchalise/config/AppConfig.class
+com/tnchalise/domain/contact/ContactDAO.class
 com/tnchalise/controller/HelloController.class
+com/tnchalise/controller/ContactController.class
+com/tnchalise/config/ServletInitializer.class
+com/tnchalise/service/CarService.class
